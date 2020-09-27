@@ -1,0 +1,36 @@
+body {
+  background-color: #a0c1b8;
+}
+
+h1 {
+  color: #0278ae;
+  margin: 7
+}
+
+h2 {
+  color: #cf7500;
+}
+
+.a {
+  line-height: 1.5;
+  font-size: 25px;
+
+}
+
+.b{
+  margin-left: 20px;
+  line-height: 1.5;
+
+}
+
+.c {
+  font-size: 25px;
+  line-height: 1.5;
+
+}
+
+.d {
+  font-size: 20px;
+  line-height: 1.5;
+
+}
