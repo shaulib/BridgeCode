@@ -2,35 +2,37 @@ body {
   background-color: #a0c1b8;
 }
 
+table, th, td {border: 1px solid black; border-collapse: collapse;}
+
 h1 {
   color: #0278ae;
-  margin: 7
+  margin-left: 30%;
+  margin-bottom: 100px;
+  margin-top: 50px;
 }
 
 h2 {
   color: #cf7500;
 }
 
-.a {
-  line-height: 1.5;
+.link {
   font-size: 25px;
-
+  line-height: 1.5;
 }
 
-.b{
+.titleImage{
   margin-left: 20px;
   line-height: 1.5;
-
 }
 
-.c {
-  font-size: 25px;
-  line-height: 1.5;
-
-}
-
-.d {
+.text {
   font-size: 20px;
   line-height: 1.5;
+}
 
+.XYZ_title {
+  margin-left: 20%;
+}
+.Bergan_title {
+  margin-left: 10%;
 }
