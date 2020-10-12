@@ -1,10 +1,25 @@
 body {
-  background-color: #a0c1b8;
+  background-color: #ccf6c8;
+}
+
+p {
+  font-size: 30px;
+  margin-left: 5%;
+}
+
+.bridge_img {
+  width: 40%;
+  height: 40%;
+  position: absolute;
+  display: inline-block;
+  margin-left: 40%;
+  padding: 30px;
 }
 
 table, th, td {border: 1px solid black; border-collapse: collapse;}
 
 h1 {
+  font-size: 70px;
   color: #0278ae;
   margin-left: 30%;
   margin-bottom: 100px;
@@ -13,11 +28,34 @@ h1 {
 
 h2 {
   color: #cf7500;
+  font-size: 40px;
+  margin-left: 5%;
+
+}
+
+.double{
+  display: inline-block;
+  position: absolute;
+  width: 100px;
+  height: 100px;
+  margin-left: 200px;
+  transform: rotate(45deg);
+}
+
+.redouble{
+  display: inline-block;
+  position: absolute;
+  width: 200px;
+  height: 200px;
+  margin-left: 80%;
+  transform: rotate(45deg);
 }
 
 .link {
-  font-size: 25px;
+  font-size: 30px;
   line-height: 1.5;
+  margin-left: 5%;
+
 }
 
 .titleImage{
